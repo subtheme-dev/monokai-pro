@@ -1,0 +1,4 @@
+{% with %}
+{% set theme=spectrum %}
+{% include "templates/theme.json" %}
+{% endwith %}

@@ -1,0 +1,79 @@
+<idea-plugin>
+  <id>monokai-pro</id>
+  <name>Monokai Pro Theme</name>
+  <vendor url="https://subtheme.dev">Subtheme</vendor>
+  <version>1.4</version>
+
+  <depends>com.intellij.modules.lang</depends>
+  <idea-version since-build="191.0"/>
+
+  <change-notes><![CDATA[
+    <h3>1.4</h3>
+    <ul>
+      <li>Fixed completion lookup color</li>
+    </ul>
+    <h3>1.3.3</h3>
+    <ul>
+      <li>Minor update to plugin metadata</li>
+    </ul>
+    <h3>1.3.2</h3>
+    <ul>
+      <li>Reverted default keyword color</li>
+    </ul>
+    <h3>1.3.1</h3>
+    <ul>
+      <li>Fixed search result background color</li>
+      <li>Fixed counter foreground color</li>
+      <li>Fixed checkbox background color</li>
+    </ul>
+    <h3>1.2</h3>
+    <ul>
+      <li>Added no-italics themes</li>
+    </ul>
+    <h3>1.1</h3>
+    <ul>
+      <li>Fixed selection foreground color</li>
+    </ul>
+    <h3>1.0</h3>
+    <ul>
+      <li>Fixed callback line color when debugging</li>
+      <li>Fixed suggestion hint selected line color</li>
+      <li>Fixed application border color in Linux</li>
+      <li>Fixed button borders</li>
+      <li>Fixed plugin hover background</li>
+    </ul>
+  ]]>
+  </change-notes>
+
+  <description>
+  <![CDATA[
+  The unofficial Monokai Pro theme, adapted for JetBrains by <a href="https://subtheme.dev">Subtheme</a>. This plugin includes the default theme and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original designer: <a href="https://monokai.pro">https://monokai.pro</a>.
+  <br/><br/>
+  An no-italics version is also available. To enable, go to Settings, select Editor/Color Scheme, and choose your preferred Scheme from the dropdown (for example, "Monokai Pro - No Italics").
+  <br/><br/>
+  Search for <i>Subtheme</i> to find more themes, including <a href="https://plugins.jetbrains.com/plugin/14799-atom-one-theme">Atom One</a>, <a href="https://plugins.jetbrains.com/plugin/14920-solarized-theme">Solarized</a>, and <a href="https://plugins.jetbrains.com/plugin/17418-foundation-theme">Foundation</a>.
+  <br/><br/>
+  Contributions are welcome with <a href="https://github.com/subtheme-dev/monokai-pro">GitHub</a>. Screenshots taken with <a href="https://plugins.jetbrains.com/plugin/10044-atom-material-icons">Atom Material Icons</a> and <a href="https://www.typography.com/fonts/operator/styles">Operator Mono</a>.
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-machine-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-octagon-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-ristretto-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-spectrum-small.png" border="0" width="360"/><br/>
+  ]]>
+  </description>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="96c210a3-cc3b-47c2-ba0f-6de6f50c18a3" path="/machine.theme.json"/>
+    <themeProvider id="342c21d9-7947-4ea7-8291-d4fd4e96fa36" path="/octagon.theme.json"/>
+    <themeProvider id="76cc8066-d21c-4e4c-8583-1b3f22e90e8f" path="/ristretto.theme.json"/>
+    <themeProvider id="ddd7798e-8bd6-4aa2-8345-a08190090321" path="/spectrum.theme.json"/>
+    <themeProvider id="b8abb5dc-b0c9-4d20-97f7-ec5cde31cfd7" path="/default.theme.json"/>
+
+    <bundledColorScheme path="/schemes/machine-no-italics"/>
+    <bundledColorScheme path="/schemes/octagon-no-italics"/>
+    <bundledColorScheme path="/schemes/ristretto-no-italics"/>
+    <bundledColorScheme path="/schemes/spectrum-no-italics"/>
+    <bundledColorScheme path="/schemes/default-no-italics"/>
+  </extensions>
+</idea-plugin>
