@@ -56,7 +56,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="{{theme.colors.base3}}" />
     <option name="SELECTED_INDENT_GUIDE" value="{{theme.colors.blue}}" />
     <option name="SELECTED_TEARLINE_COLOR" value="{{theme.colors.yellow}}" />
-    <option name="SELECTION_BACKGROUND" value="{{theme.colors.base3}}" />
+    <option name="SELECTION_BACKGROUND" value="{{theme.colors.base4}}" />
     <option name="SEPARATOR_ABOVE_COLOR" value="{{theme.colors.base8x0c}}" />
     <option name="SEPARATOR_BELOW_COLOR" value="{{theme.colors.base8x0c}}" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="{{theme.colors.base3}}" />
