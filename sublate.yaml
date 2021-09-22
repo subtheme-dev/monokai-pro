@@ -1,3 +1,2 @@
-sublate:
-  path: theme
-  data: colors
+data: colors
+path: theme

@@ -1,6 +1,4 @@
-sublate:
-  path: .
-  render:
-    - resources/schemes/*.xml
-    - src/*.json
-  remove: templates
+render:
+  - resources/schemes/*.xml
+  - src/*.json
+remove: templates
