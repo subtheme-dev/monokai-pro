@@ -2,14 +2,14 @@ ristretto:
   id: "ristretto"
   name: Monokai Pro (Filter Ristretto)
   colors:
-    # primary schemes
+    # primary colors
     red: fd6883
     orange: f38d70
     yellow: f9cc6c
     green: adda78
     blue: 85dacc
     purple: a8a9eb
-    # base schemes
+    # base colors
     base0: 191515
     base1: 211c1c
     base2: 2c2525

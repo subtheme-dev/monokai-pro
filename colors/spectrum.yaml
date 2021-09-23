@@ -2,14 +2,14 @@ spectrum:
   id: spectrum
   name: Monokai Pro (Filter Spectrum)
   colors:
-    # primary schemes
+    # primary colors
     red: fc618d
     orange: fd9353
     yellow: fce566
     green: 7bd88f
     blue: 5ad4e6
     purple: 948ae3
-    # base schemes
+    # base colors
     base0: 131313
     base1: 191919
     base2: 222222

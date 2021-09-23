@@ -2,14 +2,14 @@ machine:
   id: "machine"
   name: Monokai Pro (Filter Machine)
   colors:
-    # primary schemes
+    # primary colors
     red: ff6d7e
     orange: ffb270
     yellow: ffed72
     green: a2e57b
     blue: 7cd5f1
     purple: baa0f8
-    # base schemes
+    # base colors
     base0: 161b1e
     base1: 1d2528
     base2: 273136

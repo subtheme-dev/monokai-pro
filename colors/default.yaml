@@ -1,16 +1,16 @@
 default:
   id: "default"
   name: Monokai Pro
-  # all schemes were pulled from the official vscode extension
+  # all colors were pulled from the official vscode extension
   colors:
-    # primary schemes
+    # primary colors
     red: ff6188
     orange: fc9867
     yellow: ffd866
     green: a9dc76
     blue: 78dce8
     purple: ab9df2
-    # base schemes, sorted from darkest to lightest
+    # base colors, sorted from darkest to lightest
     base0: 19181a
     base1: 221f22
     base2: 2d2a2e

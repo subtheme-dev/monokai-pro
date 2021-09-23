@@ -2,14 +2,14 @@ octagon:
   id: "octagon"
   name: Monokai Pro (Filter Octagon)
   colors:
-    # primary schemes
+    # primary colors
     red: ff657a
     orange: ff9b5e
     yellow: ffd76d
     green: bad761
     blue: 9cd1bb
     purple: c39ac9
-    # base schemes
+    # base colors
     base0: 161821
     base1: 1e1f2b
     base2: 282a3a
