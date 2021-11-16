@@ -2,12 +2,16 @@
   <id>monokai-pro</id>
   <name>Monokai Pro Theme</name>
   <vendor url="https://subtheme.dev">Subtheme</vendor>
-  <version>1.5</version>
+  <version>1.6</version>
 
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>
 
   <change-notes><![CDATA[
+    <h3>1.6</h3>
+    <ul>
+      <li>Added Classic theme</li>
+    </ul>
     <h3>1.5</h3>
     <ul>
       <li>Updated selection background contrast</li>
@@ -51,7 +55,7 @@
 
   <description>
   <![CDATA[
-  The unofficial Monokai Pro theme, adapted for JetBrains by <a href="https://subtheme.dev">Subtheme</a>. This plugin includes the default theme and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original designer: <a href="https://monokai.pro">https://monokai.pro</a>.
+  The unofficial Monokai Pro theme, adapted for JetBrains by <a href="https://subtheme.dev">Subtheme</a>. This plugin includes the default theme, classic theme, and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original designer: <a href="https://monokai.pro">https://monokai.pro</a>.
   <br/><br/>
   An no-italics version is also available. To enable, go to Settings, select Editor/Color Scheme, and choose your preferred Scheme from the dropdown (for example, "Monokai Pro - No Italics").
   <br/><br/>
@@ -68,12 +72,14 @@
   </description>
 
   <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="1bf66303-7318-44c3-8fae-6c6f0eb3fd53" path="/classic.theme.json"/>
     <themeProvider id="96c210a3-cc3b-47c2-ba0f-6de6f50c18a3" path="/machine.theme.json"/>
     <themeProvider id="342c21d9-7947-4ea7-8291-d4fd4e96fa36" path="/octagon.theme.json"/>
     <themeProvider id="76cc8066-d21c-4e4c-8583-1b3f22e90e8f" path="/ristretto.theme.json"/>
     <themeProvider id="ddd7798e-8bd6-4aa2-8345-a08190090321" path="/spectrum.theme.json"/>
     <themeProvider id="b8abb5dc-b0c9-4d20-97f7-ec5cde31cfd7" path="/default.theme.json"/>
 
+    <bundledColorScheme path="/schemes/classic-no-italics"/>
     <bundledColorScheme path="/schemes/machine-no-italics"/>
     <bundledColorScheme path="/schemes/octagon-no-italics"/>
     <bundledColorScheme path="/schemes/ristretto-no-italics"/>
