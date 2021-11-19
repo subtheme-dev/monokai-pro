@@ -1,5 +1,7 @@
 # Monokai Pro for JetBrains
 
+Download: https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme
+
 ## Build
 
 To build the plugin for IntelliJ, follow these steps:
