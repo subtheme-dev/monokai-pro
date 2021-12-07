@@ -78,7 +78,7 @@
     <option name="ScrollBar.trackColor" value="{{theme.colors.base2}}" />
     <option name="TAB_UNDERLINE" value="{{theme.colors.yellow}}" />
     <option name="TAB_UNDERLINE_INACTIVE" value="{{theme.colors.yellow}}" />
-    <option name="TEARLINE_COLOR" value="{{theme.colors.base8x0c}}" />
+    <option name="TEARLINE_COLOR" value="{{theme.colors.base3}}" />
     <option name="TOOLTIP" value="{{theme.colors.base3}}" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="{{theme.colors.base5}}" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
