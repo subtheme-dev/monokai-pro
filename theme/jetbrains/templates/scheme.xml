@@ -3695,6 +3695,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="87cefa" />
+        <option name="ERROR_STRIPE_COLOR" value="87cefa" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
