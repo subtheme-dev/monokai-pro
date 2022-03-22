@@ -2736,14 +2736,30 @@
         <option name="FOREGROUND" value="{{theme.colors.base6}}" />
       </value>
     </option>
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="{{theme.colors.blue}}" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="{{theme.colors.blue}}" />
+      </value>
+    </option>
     <option name="NG.EXPANSION_FORM">
       <value>
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="NG.EXPRESSIONS">
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
       <value>
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="{{theme.colors.blue}}" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="{{theme.colors.blue}}" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -3695,6 +3711,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="87cefa" />
+        <option name="ERROR_STRIPE_COLOR" value="87cefa" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
