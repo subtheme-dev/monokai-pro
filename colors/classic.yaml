@@ -4,21 +4,21 @@ classic:
   # all colors were pulled from the official vscode extension
   colors:
     # primary colors
-    red: f92672
-    orange: fd971f
-    yellow: a9dc76
-    green: a6e22e
-    blue: 66d9ef
-    purple: ab9df2
+    red: "#f92672"
+    orange: "#fd971f"
+    yellow: "#a9dc76"
+    green: "#a6e22e"
+    blue: "#66d9ef"
+    purple: "#ab9df2"
     # base colors, sorted from darkest to lightest
-    base0: 161613
-    base1: 1d1e19
-    base2: 272822
-    base3: 3b3c35
-    base4: 57584f
-    base5: 6e7066
-    base6: 919288
-    base7: c0c1b5
-    base8: fdfff1
+    base0: "#161613"
+    base1: "#1d1e19"
+    base2: "#272822"
+    base3: "#3b3c35"
+    base4: "#57584f"
+    base5: "#6e7066"
+    base6: "#919288"
+    base7: "#c0c1b5"
+    base8: "#fdfff1"
     # variants (for when transparency isn't supported)
-    base8x0c: 32332c # using base2 as bg
+    base8x0c: "#32332c" # using base2 as bg
