@@ -1,0 +1,4 @@
+{% with %}
+{% set theme=machine %}
+{% include "templates/theme.toml" %}
+{% endwith %}

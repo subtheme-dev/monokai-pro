@@ -1,0 +1,4 @@
+{% with %}
+{% set theme=octagon %}
+{% include "templates/theme.toml" %}
+{% endwith %}

@@ -1,0 +1,4 @@
+{% with %}
+{% set theme=ristretto %}
+{% include "templates/theme.toml" %}
+{% endwith %}
