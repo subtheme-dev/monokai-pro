@@ -23,12 +23,12 @@
     <option name="FILESTATUS_DELETED" value="{{theme.colors.base5}}" />
     <option name="FILESTATUS_HIJACKED" value="{{theme.colors.yellow}}" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="{{theme.colors.base5}}" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="{{theme.colors.base4}}" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="{{theme.colors.orange}}" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="{{theme.colors.orange}}" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="{{theme.colors.orange}}" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="{{theme.colors.green}}" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="{{theme.colors.base4}}" />
     <option name="FILESTATUS_MERGED" value="{{theme.colors.purple}}" />
     <option name="FILESTATUS_MODIFIED" value="{{theme.colors.blue}}" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="{{theme.colors.blue}}" />
