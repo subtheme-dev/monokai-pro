@@ -8,6 +8,10 @@
   <idea-version since-build="191.0"/>
 
   <change-notes><![CDATA[
+    <h3>1.9</h3>
+    <ul>
+      <li>Fixed TitledBorder.titleColor.</li>
+    </ul>
     <h3>1.8.1</h3>
     <ul>
       <li>Compatibility for 2022.</li>

@@ -530,7 +530,7 @@
       "inactiveInfoForeground": "{{theme.colors.base6}}"
     },
     "TitledBorder": {
-      "titleColor": "{{theme.colors.base2}}"
+      "titleColor": "{{theme.colors.base6}}"
     },
     "ToggleButton": {
       "borderColor": "{{theme.colors.base3}}",
