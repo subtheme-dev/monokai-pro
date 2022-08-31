@@ -2,7 +2,7 @@
   <id>monokai-pro</id>
   <name>Monokai Pro Theme</name>
   <vendor url="https://subtheme.dev">Subtheme</vendor>
-  <version>1.8.1</version>
+  <version>1.9</version>
 
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>
@@ -11,6 +11,7 @@
     <h3>1.9</h3>
     <ul>
       <li>Fixed TitledBorder.titleColor.</li>
+      <li>Updated ignore file color.</li>
     </ul>
     <h3>1.8.1</h3>
     <ul>
