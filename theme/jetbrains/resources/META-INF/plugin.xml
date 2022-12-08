@@ -2,12 +2,16 @@
   <id>monokai-pro</id>
   <name>Monokai Pro Theme</name>
   <vendor url="https://subtheme.dev">Subtheme</vendor>
-  <version>1.9</version>
+  <version>1.10</version>
 
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>
 
   <change-notes><![CDATA[
+    <h3>1.10</h3>
+    <ul>
+      <li>Updated dropdown selected background color</li>
+    </ul>
     <h3>1.9</h3>
     <ul>
       <li>Fixed TitledBorder.titleColor.</li>

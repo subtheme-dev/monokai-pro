@@ -104,8 +104,8 @@
     "CompletionPopup": {
       "foreground": "{{theme.colors.base8}}",
       "matchForeground": "{{theme.colors.yellow}}",
-      "selectionInactiveBackground": "{{theme.colors.base2}}",
-      "selectionBackground": "{{theme.colors.base2}}"
+      "selectionInactiveBackground": "{{theme.colors.base4}}",
+      "selectionBackground": "{{theme.colors.base4}}"
     },
     "Component": {
       "arc": 4,
