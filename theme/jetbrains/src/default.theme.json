@@ -1,4 +1,0 @@
-{% with %}
-{% set theme=default %}
-{% include "templates/theme.json" %}
-{% endwith %}

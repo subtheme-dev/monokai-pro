@@ -1,5 +1,0 @@
-{% with %}
-{% set theme=spectrum %}
-{% set italics=False %}
-{% include "templates/scheme.xml" %}
-{% endwith %}

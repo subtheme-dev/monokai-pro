@@ -8,7 +8,10 @@ Supported apps:
 - [JetBrains](theme/jetbrains)
 - [Lapce](theme/lapce)
 
-To build, use [sublate](https://github.com/espositocode/sublate):
+To build, first install [sublate](https://github.com/espositocode/sublate):
 
     $ pip install sublate
-    $ sublate
+
+Then, run `build.py`:
+
+    $ python build.py

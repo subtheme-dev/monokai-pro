@@ -1,4 +1,0 @@
-{% with %}
-{% set theme=octagon %}
-{% include "templates/theme.json" %}
-{% endwith %}

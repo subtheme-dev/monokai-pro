@@ -1,3 +1,0 @@
-render:
-  - src/*.toml
-remove: templates

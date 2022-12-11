@@ -1,5 +1,0 @@
-{% with %}
-{% set theme=ristretto %}
-{% set italics=False %}
-{% include "templates/scheme.xml" %}
-{% endwith %}

@@ -1,1 +1,1 @@
-sublate==0.2.6
+sublate>=0.3

@@ -1,5 +1,0 @@
-{% with %}
-{% set theme=octagon %}
-{% set italics=False %}
-{% include "templates/scheme.xml" %}
-{% endwith %}

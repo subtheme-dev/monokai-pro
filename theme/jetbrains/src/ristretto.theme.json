@@ -1,4 +1,0 @@
-{% with %}
-{% set theme=ristretto %}
-{% include "templates/theme.json" %}
-{% endwith %}
