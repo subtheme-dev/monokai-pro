@@ -15,7 +15,7 @@ for name, theme in sub.data["colors"].items():
     })
 
     # themes
-    sub.render(f"src/{name}.json", "templates/theme.json", {
+    sub.render(f"src/{name}.theme.json", "templates/theme.json", {
         "theme": theme
     })
 
