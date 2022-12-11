@@ -1,9 +1,13 @@
+#!/usr/bin/env python3
 import sublate as sub
 
-sub.load("colors")
+sub.data.update({
+    "date": sub.date_iso(),
+    "colors": sub.read("colors/*.yaml").values(),
+})
+
 sub.rm("output")
 sub.cp("apps", "output")
-sub.run("output/jetbrains/build.py")
-sub.run("output/lapce/build.py")
+sub.run("output/*/build.py")
 
 print("Finished")

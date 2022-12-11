@@ -4,8 +4,8 @@ print("[+] Lapce")
 
 sub.mkdir("src")
 
-for name, theme in sub.data["colors"].items():
-    sub.render(f"src/{name}.toml", "templates/theme.toml", {
+for theme in sub.data["colors"]:
+    sub.render(f"src/{theme['id']}.toml", "templates/theme.toml", {
         "theme": theme
     })
 

@@ -14,4 +14,4 @@ To build, first install [sublate](https://github.com/espositocode/sublate):
 
 Then, run `build.py`:
 
-    $ python build.py
+    $ ./build.py
