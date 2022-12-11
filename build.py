@@ -7,7 +7,7 @@ sub.data.update({
 })
 
 sub.rm("output")
-sub.cp("apps", "output")
+sub.cp("theme", "output")
 sub.run("output/*/build.py")
 
 print("Finished")
