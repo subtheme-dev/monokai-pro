@@ -1,6 +1,6 @@
 import sublate as sub
 
-print("[+] Monokai Pro")
+print("[+] JetBrains")
 
 sub.mkdir("resources/schemes")
 sub.mkdir("src")

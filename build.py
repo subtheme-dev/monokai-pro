@@ -9,5 +9,3 @@ sub.data.update({
 sub.rm("output")
 sub.cp("theme", "output")
 sub.run("output/*/build.py")
-
-print("Finished")
