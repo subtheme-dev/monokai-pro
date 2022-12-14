@@ -8,6 +8,7 @@ Supported apps:
 - [JetBrains](theme/jetbrains)
 - [iTerm](theme/iterm)
 - [Lapce](theme/lapce)
+- [Terminal](theme/terminal)
 
 To build, first install [sublate](https://github.com/espositocode/sublate):
 
