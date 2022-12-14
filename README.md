@@ -6,6 +6,7 @@ This theme is functionally complete for JetBrains, but more work is needed to ma
 
 Supported apps:
 - [JetBrains](theme/jetbrains)
+- [iTerm](theme/iterm)
 - [Lapce](theme/lapce)
 
 To build, first install [sublate](https://github.com/espositocode/sublate):

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Ansi 0 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.base2.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.base2.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.base2.r}}</real>
+		</dict>
+	
+		<key>Ansi 1 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.red.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.red.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.red.r}}</real>
+		</dict>
+	
+		<key>Ansi 2 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.green.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.green.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.green.r}}</real>
+		</dict>
+	
+		<key>Ansi 3 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.yellow.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.yellow.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.yellow.r}}</real>
+		</dict>
+	
+		<key>Ansi 4 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.orange.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.orange.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.orange.r}}</real>
+		</dict>
+	
+		<key>Ansi 5 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.purple.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.purple.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.purple.r}}</real>
+		</dict>
+	
+		<key>Ansi 6 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.blue.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.blue.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.blue.r}}</real>
+		</dict>
+	
+		<key>Ansi 7 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.base8.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.base8.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.base8.r}}</real>
+		</dict>
+
+		<key>Ansi 8 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.base5.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.base5.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.base5.r}}</real>
+		</dict>
+	
+		<key>Ansi 9 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.red.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.red.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.red.r}}</real>
+		</dict>
+	
+		<key>Ansi 10 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.green.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.green.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.green.r}}</real>
+		</dict>
+	
+		<key>Ansi 11 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.yellow.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.yellow.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.yellow.r}}</real>
+		</dict>
+	
+		<key>Ansi 12 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.orange.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.orange.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.orange.r}}</real>
+		</dict>
+	
+		<key>Ansi 13 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.purple.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.purple.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.purple.r}}</real>
+		</dict>
+	
+		<key>Ansi 14 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.blue.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.blue.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.blue.r}}</real>
+		</dict>
+	
+		<key>Ansi 15 Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.base8.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.base8.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.base8.r}}</real>
+		</dict>	
+	
+		<key>Cursor Text Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>0.7529411765</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>0.7529411765</real>
+			<key>Red Component</key>
+			<real>0.7568627451</real>
+		</dict>
+	
+		<key>Selected Text Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>0.9803921569</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>0.9882352941</real>
+			<key>Red Component</key>
+			<real>0.9882352941</real>
+		</dict>
+	
+		<key>Foreground Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.base8.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.base8.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.base8.r}}</real>
+		</dict>
+	
+		<key>Background Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.base2.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.base2.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.base2.r}}</real>
+		</dict>
+	
+		<key>Bold Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.blue.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.blue.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.blue.r}}</real>
+		</dict>
+	
+		<key>Selection Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.base4.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.base4.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.base4.r}}</real>
+		</dict>
+	
+		<key>Cursor Color</key>
+		<dict>
+			<key>Alpha Component</key>
+			<real>1</real>
+			<key>Blue Component</key>
+			<real>{{theme.colors.base7.b}}</real>
+			<key>Color Space</key>
+			<string>sRGB</string>
+			<key>Green Component</key>
+			<real>{{theme.colors.base7.g}}</real>
+			<key>Red Component</key>
+			<real>{{theme.colors.base7.r}}</real>
+		</dict>
+	</dict>
+</plist>
