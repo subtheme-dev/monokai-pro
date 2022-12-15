@@ -5,8 +5,8 @@ The unofficial Monokai Pro theme, adapted by [Subtheme](https://subtheme.dev). T
 This theme is functionally complete for JetBrains, but more work is needed to match language specific colors with the official theme (as seen in Sublime or VSCode). Focus is currently on Java and Python, but pull requests are welcome for any language.
 
 Supported apps:
-- [JetBrains](theme/jetbrains)
 - [iTerm](theme/iterm)
+- [JetBrains](theme/jetbrains)
 - [Lapce](theme/lapce)
 - [Terminal](theme/terminal)
 
