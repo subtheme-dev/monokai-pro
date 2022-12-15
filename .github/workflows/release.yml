@@ -1,15 +1,11 @@
 name: release
-
 on:
   workflow_dispatch:
   schedule:
     - cron:  '0 0 * * *'
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-python@v4
@@ -21,7 +17,7 @@ jobs:
     - run: |
         python build.py
     - run: |
-         zip -r --junk-paths monokai-pro ./output
+         zip -r monokai-pro ./output
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1
