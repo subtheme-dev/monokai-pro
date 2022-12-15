@@ -1,8 +1,6 @@
 name: release
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '0 0 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,21 +12,20 @@ jobs:
     - run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - run: |
         python build.py
-    - run: |
-         zip -r monokai-pro ./output
-    - name: Create Release
-      id: create_release
+        zip -r monokai-pro ./output
+    - id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+    - id: create_release
       uses: actions/create-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        release_name: latest
+        tag_name: ${{ steps.date.outputs.date }}
+        release_name: ${{ steps.date.outputs.date }}
         draft: false
         prerelease: false
-    - name: Upload Release Asset
-      id: upload-release-asset 
+    - id: upload-release-asset 
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
