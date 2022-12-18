@@ -169,7 +169,9 @@
     },
     "DragAndDrop": {
       "areaBackground": "{{theme.colors.base2}}",
-      "areaForeground": "{{theme.colors.base8}}"
+      "areaForeground": "{{theme.colors.base8}}",
+      "rowBackground": "{{theme.colors.base4}}",
+      "borderColor": ""
     },
     "Editor": {
       "background": "{{theme.colors.base1}}",
