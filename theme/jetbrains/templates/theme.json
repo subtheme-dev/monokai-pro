@@ -41,8 +41,8 @@
       "default": {
         "endBackground": "{{theme.colors.base3.5}}",
         "endBorderColor": "{{theme.colors.base3.5}}",
-        "foreground": "{{theme.colors.green}}",
-        "focusColor": "{{theme.colors.orange}}",
+        "foreground": "{{theme.colors.yellow}}",
+        "focusColor": "{{theme.colors.blue}}",
         "focusedBorderColor": "{{theme.colors.base3.5}}",
         "shadowColor": "{{theme.colors.base3.5}}",
         "startBackground": "{{theme.colors.base3.5}}",
@@ -123,14 +123,14 @@
       "borderColor": "{{theme.colors.base5}}",
       "disabledBorderColor": "{{theme.colors.base8x0c}}",
       "errorFocusColor": "{{theme.colors.errorRed}}",
-      "focusColor": "{{theme.colors.orange}}",
-      "focusedBorderColor": "{{theme.colors.orange}}",
+      "focusColor": "{{theme.colors.yellow}}",
+      "focusedBorderColor": "{{theme.colors.yellow}}",
       "focusWidth": "",
       "hoverIconColor": "{{theme.colors.yellow}}",
       "iconColor": "{{theme.colors.base8}}",
       "inactiveErrorFocusColor": "",
       "inactiveWarningFocusColor": "",
-      "infoForeground": "{{theme.colors.base5}}",
+      "infoForeground": "{{theme.colors.base6}}",
       "warningFocusColor": ""
     },
     "Counter": {
