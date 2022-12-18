@@ -30,6 +30,7 @@
       "pressedBackground": "{{theme.colors.darkBlue}}",
       "pressedBorderColor": "{{theme.colors.blue}}"
     },
+    "Banner": {},
     "Borders": {
       "ContrastBorderColor": "{{theme.colors.base8x0c}}",
       "color": "{{theme.colors.base3.5}}"
@@ -60,9 +61,9 @@
     },
     "CheckBox": {
       "background": "{{theme.colors.base2}}",
-      "disabledText": "{{theme.colors.base4}}",
-      "foreground": "{{theme.colors.base8}}",
-      "select": "{{theme.colors.yellow}}"
+      "disabledText": "{{theme.colors.base3.5}}",
+      "foreground": "{{theme.colors.base9}}",
+      "select": "{{theme.colors.orange}}"
     },
     "CheckBoxMenuItem": {
       "acceleratorForeground": "{{theme.colors.base6}}",
