@@ -202,7 +202,13 @@
       "underlinedTabForeground": "{{theme.colors.base7}}"
     },
     "FileColor": {
-      "Yellow": "00000000"
+      "Blue": "#227d6c",
+      "Gray": "#665751",
+      "Green": "#356f0f",
+      "Orange": "#a04913",
+      "Rose": "#a01384",
+      "Violet": "#1328a0",
+      "Yellow": "#584d10"
     },
     "FormattedTextField": {
       "background": "{{theme.colors.base8x0c}}",
