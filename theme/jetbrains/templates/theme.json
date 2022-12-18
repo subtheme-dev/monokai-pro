@@ -27,12 +27,12 @@
     "ActionButton": {
       "hoverBackground": "{{theme.colors.base3}}",
       "hoverBorderColor": "{{theme.colors.base6}}",
-      "pressedBackground": "{{theme.colors.base4}}",
+      "pressedBackground": "{{theme.colors.darkBlue}}",
       "pressedBorderColor": "{{theme.colors.blue}}"
     },
     "Borders": {
       "ContrastBorderColor": "{{theme.colors.base8x0c}}",
-      "color": "{{theme.colors.base4}}"
+      "color": "{{theme.colors.base3.5}}"
     },
     "Button": {
       "arc": 6,
