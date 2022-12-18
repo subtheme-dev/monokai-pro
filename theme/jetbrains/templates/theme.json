@@ -35,28 +35,28 @@
       "color": "{{theme.colors.base4}}"
     },
     "Button": {
-      "arc": 0,
-      "background": "{{theme.colors.base3}}",
+      "arc": 6,
+      "background": "{{theme.colors.base3.5}}",
       "default": {
-        "endBackground": "{{theme.colors.base3}}",
-        "endBorderColor": "{{theme.colors.base3}}",
-        "foreground": "{{theme.colors.yellow}}",
-        "focusColor": "{{theme.colors.yellow}}",
-        "focusedBorderColor": "{{theme.colors.base3}}",
-        "shadowColor": "{{theme.colors.base3}}",
-        "startBackground": "{{theme.colors.base3}}",
-        "startBorderColor": "{{theme.colors.base3}}"
+        "endBackground": "{{theme.colors.base3.5}}",
+        "endBorderColor": "{{theme.colors.base3.5}}",
+        "foreground": "{{theme.colors.blue}}",
+        "focusColor": "{{theme.colors.orange}}",
+        "focusedBorderColor": "{{theme.colors.base3.5}}",
+        "shadowColor": "{{theme.colors.base3.5}}",
+        "startBackground": "{{theme.colors.base3.5}}",
+        "startBorderColor": "{{theme.colors.base3.5}}"
       },
-      "disabledBorderColor": "{{theme.colors.base3}}",
-      "disabledText": "{{theme.colors.base4}}",
-      "endBackground": "{{theme.colors.base3}}",
-      "endBorderColor": "{{theme.colors.base3}}",
-      "focusedBorderColor": "{{theme.colors.base3}}",
+      "disabledBorderColor": "{{theme.colors.base3.5}}",
+      "disabledText": "{{theme.colors.base6}}",
+      "endBackground": "{{theme.colors.base3.5}}",
+      "endBorderColor": "{{theme.colors.base3.5}}",
+      "focusedBorderColor": "{{theme.colors.base3.5}}",
       "foreground": "{{theme.colors.base8}}",
-      "shadowColor": "{{theme.colors.base3}}",
+      "shadowColor": "{{theme.colors.base3.5}}",
       "shadowWidth": 0,
-      "startBackground": "{{theme.colors.base3}}",
-      "startBorderColor": "{{theme.colors.base3}}"
+      "startBackground": "{{theme.colors.base3.5}}",
+      "startBorderColor": "{{theme.colors.base3.5}}"
     },
     "CheckBox": {
       "background": "{{theme.colors.base2}}",

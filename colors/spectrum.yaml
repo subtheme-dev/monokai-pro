@@ -13,10 +13,12 @@ colors:
   base1: "#191919"
   base2: "#222222"
   base3: "#363537"
+  base3.5: "#292929"
   base4: "#525053"
   base5: "#69676c"
   base6: "#8b888f"
   base7: "#bab6c0"
   base8: "#f7f1ff"
+  base9: "#cdcdcd"
   # variants
   base8x0c: "#2b2b2b"
