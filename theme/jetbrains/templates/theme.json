@@ -90,7 +90,6 @@
         "nonEditableBackground": "{{theme.colors.base2}}"
       },
       "background": "{{theme.colors.base8x0c}}",
-      "disabledBackground": "{{theme.colors.base1}}",
       "disabledForeground": "{{theme.colors.base4}}",
       "foreground": "{{theme.colors.base8}}",
       "modifiedItemForeground": "{{theme.colors.yellow}}",
@@ -149,7 +148,6 @@
     },
     "DragAndDrop": {
       "areaBackground": "{{theme.colors.base2}}",
-      "areaBorderColor": "{{theme.colors.base2}}",
       "areaForeground": "{{theme.colors.base8}}"
     },
     "Editor": {
@@ -194,8 +192,7 @@
       "lineSeparatorColor": "{{theme.colors.base2}}"
     },
     "HelpTooltip": {
-      "borderColor": "{{theme.colors.base2}}",
-      "infoForeground": "{{theme.colors.base6}}"
+      "borderColor": "{{theme.colors.base2}}"
     },
     "InformationHint": {
       "borderColor": "{{theme.colors.base2}}"
@@ -331,8 +328,7 @@
         "updateForeground": "{{theme.colors.base8}}"
       },
       "SearchField": {
-        "background": "{{theme.colors.base8x0c}}",
-        "borderColor": "{{theme.colors.base8x0c}}"
+        "background": "{{theme.colors.base8x0c}}"
       },
       "SectionHeader": {
         "background": "{{theme.colors.base2}}",
@@ -456,8 +452,7 @@
       "draggingColor": "{{theme.colors.base3}}"
     },
     "StatusBar": {
-      "borderColor": "{{theme.colors.base8x0c}}",
-      "hoverBackground": "{{theme.colors.base8x0c}}"
+      "borderColor": "{{theme.colors.base8x0c}}"
     },
     "TabbedPane": {
       "background": "{{theme.colors.base2}}",
