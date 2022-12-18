@@ -32,7 +32,7 @@
     },
     "Borders": {
       "ContrastBorderColor": "{{theme.colors.base8x0c}}",
-      "color": "{{theme.colors.base8x0c}}"
+      "color": "{{theme.colors.base4}}"
     },
     "Button": {
       "arc": 0,
