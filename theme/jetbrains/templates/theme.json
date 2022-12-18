@@ -138,14 +138,18 @@
       "foreground": "{{theme.colors.base0}}"
     },
     "Debugger": {
+      "EvaluateExpression": {
+        "background": ""
+      },
       "Variables": {
+        "changedValueForeground": "{{theme.colors.base5}}",
         "collectingDataForeground": "{{theme.colors.base6}}",
-        "changedValueForeground": "{{theme.colors.yellow}}",
-        "errorMessageForeground": "{{theme.colors.red}}",
+        "errorMessageForeground": "{{theme.colors.errorRed}}",
         "evaluatingExpressionForeground": "{{theme.colors.base6}}",
-        "exceptionForeground": "{{theme.colors.blue}}",
+        "exceptionForeground": "{{theme.colors.errorRed}}",
         "modifyingValueForeground": "{{theme.colors.yellow}}",
-        "valueForeground": "{{theme.colors.yellow}}"
+        "typeForeground": "{{theme.colors.base5}}",
+        "valueForeground": "{{theme.colors.base5}}"
       }
     },
     "DebuggerTabs": {
