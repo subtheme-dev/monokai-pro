@@ -119,14 +119,19 @@
       "selectionInnerInsets": ""
     },
     "Component": {
-      "arc": 4,
-      "borderColor": "{{theme.colors.base8x0c}}",
+      "arc": 10,
+      "borderColor": "{{theme.colors.base5}}",
       "disabledBorderColor": "{{theme.colors.base8x0c}}",
-      "focusColor": "{{theme.colors.yellow}}",
-      "focusedBorderColor": "{{theme.colors.yellow}}",
+      "errorFocusColor": "{{theme.colors.errorRed}}",
+      "focusColor": "{{theme.colors.orange}}",
+      "focusedBorderColor": "{{theme.colors.orange}}",
+      "focusWidth": "",
       "hoverIconColor": "{{theme.colors.yellow}}",
-      "infoForeground": "{{theme.colors.base6}}",
-      "iconColor": "{{theme.colors.base8}}"
+      "iconColor": "{{theme.colors.base8}}",
+      "inactiveErrorFocusColor": "",
+      "inactiveWarningFocusColor": "",
+      "infoForeground": "{{theme.colors.base5}}",
+      "warningFocusColor": ""
     },
     "Counter": {
       "background": "{{theme.colors.yellow}}",
