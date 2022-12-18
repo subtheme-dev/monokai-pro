@@ -87,7 +87,7 @@
       "ArrowButton": {
         "background": "{{theme.colors.base2}}",
         "nonEditableBackground": "{{theme.colors.base2}}",
-        "iconColor": "{{theme.colors.blue}}",
+        "iconColor": "{{theme.colors.base8}}",
         "disabledIconColor": "{{theme.colors.base3.5}}"
       },
       "background": "{{theme.colors.base8x0c}}",
