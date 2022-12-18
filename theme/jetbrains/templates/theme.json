@@ -102,10 +102,21 @@
       "border": "0,0,0,0,000000"
     },
     "CompletionPopup": {
-      "foreground": "{{theme.colors.base8}}",
+      "Body": {
+        "insets": ""
+      },
+      "Advertiser": {
+        "background": "{{theme.colors.base2}}",
+        "borderInsets": "",
+        "fontSizeOffset": "",
+        "foreground": "{{theme.colors.base7}}"
+      },
+      "foreground": "{{theme.colors.blue}}",
       "matchForeground": "{{theme.colors.yellow}}",
-      "selectionInactiveBackground": "{{theme.colors.base4}}",
-      "selectionBackground": "{{theme.colors.base4}}"
+      "selectionInactiveBackground": "{{theme.colors.base3}}",
+      "selectionBackground": "{{theme.colors.base3}}",
+      "nonFocusedMask": "",
+      "selectionInnerInsets": ""
     },
     "Component": {
       "arc": 4,
