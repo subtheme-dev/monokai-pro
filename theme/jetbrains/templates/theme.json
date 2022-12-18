@@ -188,11 +188,12 @@
     "EditorPane": {
       "background": "{{theme.colors.base1}}",
       "caretForeground": "{{theme.colors.yellow}}",
-      "foreground": "{{theme.colors.base8}}",
-      "inactiveBackground": "{{theme.colors.base2}}",
-      "inactiveForeground": "{{theme.colors.base4}}",
+      "foreground": "{{theme.colors.blue}}",
+      "inactiveBackground": "{{theme.colors.base4}}",
+      "inactiveForeground": "{{theme.colors.base2}}",
       "selectionBackground": "{{theme.colors.base3}}",
-      "selectionForeground": "{{theme.colors.yellow}}"
+      "selectionForeground": "{{theme.colors.yellow}}",
+      "splitBorder": "{{theme.colors.base5}}"
     },
     "EditorTabs": {
       "borderColor": "{{theme.colors.base8x0c}}",
