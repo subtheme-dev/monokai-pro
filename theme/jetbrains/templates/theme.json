@@ -176,7 +176,14 @@
     "Editor": {
       "background": "{{theme.colors.base1}}",
       "foreground": "{{theme.colors.base8}}",
-      "shortcutForeground": "{{theme.colors.base6}}"
+      "shortcutForeground": "{{theme.colors.base6}}",
+      "SearchField": {
+        "background": "{{theme.colors.base2}}",
+        "borderInsets": ""
+      },
+      "Toolbar": {
+        "borderColor": "{{theme.colors.base4}}"
+      }
     },
     "EditorPane": {
       "background": "{{theme.colors.base1}}",
