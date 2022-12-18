@@ -85,21 +85,21 @@
     },
     "ComboBox": {
       "ArrowButton": {
-        "background": "{{theme.colors.base3}}",
-        "disabledIconColor": "{{theme.colors.base4}}",
-        "iconColor": "{{theme.colors.base8}}",
-        "nonEditableBackground": "{{theme.colors.base2}}"
+        "background": "{{theme.colors.base2}}",
+        "nonEditableBackground": "{{theme.colors.base2}}",
+        "iconColor": "{{theme.colors.blue}}",
+        "disabledIconColor": "{{theme.colors.base3.5}}"
       },
       "background": "{{theme.colors.base8x0c}}",
       "disabledForeground": "{{theme.colors.base4}}",
       "foreground": "{{theme.colors.base8}}",
-      "modifiedItemForeground": "{{theme.colors.yellow}}",
+      "modifiedItemForeground": "{{theme.colors.orange}}",
       "nonEditableBackground": "{{theme.colors.base8x0c}}",
-      "selectionBackground": "{{theme.colors.base2}}",
-      "selectionForeground": "{{theme.colors.yellow}}"
+      "selectionBackground": "{{theme.colors.blue}}",
+      "selectionForeground": "{{theme.colors.base1}}"
     },
     "ComboPopup": {
-      "border": "{{theme.colors.base2}}"
+      "border": "0,0,0,0,000000"
     },
     "CompletionPopup": {
       "foreground": "{{theme.colors.base8}}",
