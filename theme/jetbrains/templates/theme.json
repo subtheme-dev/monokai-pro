@@ -286,18 +286,25 @@
       "usedBackground": "{{theme.colors.errorRed}}"
     },
     "Menu": {
+      "foreground": "{{theme.colors.base8}}",
+      "background": "{{theme.colors.base2}}",
+      "separatorColor": "{{theme.colors.base3.5}}",
+      "borderInsets": "",
+      "borderColor": "{{theme.colors.base3.5}}",
+      "selectionBackground": "{{theme.colors.base3.5}}",
+      "selectionForeground": "{{theme.colors.yellow}}",
       "acceleratorForeground": "{{theme.colors.base6}}",
       "acceleratorSelectionForeground": "{{theme.colors.base8}}",
-      "background": "{{theme.colors.base2}}",
-      "borderColor": "{{theme.colors.base8x0c}}",
-      "disabledBackground": "{{theme.colors.base3}}",
+      "disabledBackground": "{{theme.colors.base2}}",
       "disabledForeground": "{{theme.colors.base4}}",
-      "foreground": "{{theme.colors.base8}}",
-      "separatorColor": "{{theme.colors.base2}}",
-      "selectionForeground": "{{theme.colors.yellow}}"
+      "Selection": {
+        "arc": 7,
+        "innerInsets": "",
+        "outerInsets": ""
+      }
     },
     "MenuBar": {
-      "borderColor": "{{theme.colors.base8x0c}}",
+      "borderColor": "{{theme.colors.base3.5}}",
       "disabledBackground": "{{theme.colors.base2}}",
       "disabledForeground": "{{theme.colors.base4}}",
       "foreground": "{{theme.colors.base8}}",
@@ -312,7 +319,7 @@
       "disabledBackground": "{{theme.colors.base2}}",
       "disabledForeground": "{{theme.colors.base4}}",
       "foreground": "{{theme.colors.base8}}",
-      "selectionBackground": "{{theme.colors.base3}}",
+      "selectionBackground": "{{theme.colors.base3.5}}",
       "selectionForeground": "{{theme.colors.yellow}}"
     },
     "NavBar": {
