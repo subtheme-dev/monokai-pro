@@ -36,7 +36,7 @@
       "color": "{{theme.colors.base3.5}}"
     },
     "Button": {
-      "arc": 6,
+      "arc": 10,
       "background": "{{theme.colors.base3.5}}",
       "default": {
         "endBackground": "{{theme.colors.base3.5}}",
