@@ -226,8 +226,8 @@
       "selectionBackground": "{{theme.colors.base3}}"
     },
     "Group": {
-      "disabledSeparatorColor": "{{theme.colors.base2}}",
-      "separatorColor": "{{theme.colors.base2}}"
+      "disabledSeparatorColor": "{{theme.colors.base3}}",
+      "separatorColor": "{{theme.colors.base3.5}}"
     },
     "GutterTooltip": {
       "infoForeground": "{{theme.colors.base8}}",
