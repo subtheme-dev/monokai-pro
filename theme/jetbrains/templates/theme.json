@@ -93,7 +93,7 @@
       "background": "{{theme.colors.base8x0c}}",
       "disabledForeground": "{{theme.colors.base4}}",
       "foreground": "{{theme.colors.base8}}",
-      "modifiedItemForeground": "{{theme.colors.orange}}",
+      "modifiedItemForeground": "{{theme.colors.blue}}",
       "nonEditableBackground": "{{theme.colors.base8x0c}}",
       "selectionBackground": "{{theme.colors.blue}}",
       "selectionForeground": "{{theme.colors.base1}}"
