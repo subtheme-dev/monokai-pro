@@ -208,13 +208,13 @@
       "inactiveColoredFileBackground": ""
     },
     "FileColor": {
-      "Blue": "#227d6c",
-      "Gray": "#665751",
-      "Green": "#356f0f",
-      "Orange": "#a04913",
-      "Rose": "#a01384",
-      "Violet": "#1328a0",
-      "Yellow": "#584d10"
+      "Blue": "#00403e",
+      "Gray": "#393535",
+      "Green": "#132b00",
+      "Orange": "#532200",
+      "Rose": "#4c001d",
+      "Violet": "#210045",
+      "Yellow": "#363100"
     },
     "FormattedTextField": {
       "background": "{{theme.colors.base8x0c}}",
