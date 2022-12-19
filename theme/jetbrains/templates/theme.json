@@ -62,7 +62,7 @@
     "CheckBox": {
       "background": "{{theme.colors.base2}}",
       "disabledText": "{{theme.colors.base3.5}}",
-      "foreground": "{{theme.colors.base9}}",
+      "foreground": "{{theme.colors.base8}}",
       "select": "{{theme.colors.orange}}"
     },
     "CheckBoxMenuItem": {
