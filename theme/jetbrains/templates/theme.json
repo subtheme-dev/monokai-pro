@@ -52,7 +52,7 @@
       "disabledText": "{{theme.colors.base6}}",
       "endBackground": "{{theme.colors.base3.5}}",
       "endBorderColor": "{{theme.colors.base3.5}}",
-      "focusedBorderColor": "{{theme.colors.base3.5}",
+      "focusedBorderColor": "{{theme.colors.darkBlue}}",
       "foreground": "{{theme.colors.base9}}",
       "shadowColor": "{{theme.colors.base3.5}}",
       "shadowWidth": 0,
@@ -120,8 +120,8 @@
     },
     "Component": {
       "arc": 10,
-      "borderColor": "{{theme.colors.base5}}",
-      "infoForeground": "{{theme.colors.base6}}",
+      "borderColor": "{{theme.colors.base4}}",
+      "infoForeground": "{{theme.colors.base5}}",
       "disabledBorderColor": "{{theme.colors.base8x0c}}",
       "focusColor": "{{theme.colors.blue}}",
       "focusedBorderColor": "{{theme.colors.darkBlue}}",
@@ -175,14 +175,14 @@
     },
     "Editor": {
       "background": "{{theme.colors.base1}}",
-      "foreground": "{{theme.colors.base8}}",
-      "shortcutForeground": "{{theme.colors.base6}}",
+      "foreground": "{{theme.colors.base7}}",
+      "shortcutForeground": "{{theme.colors.base5}}",
       "SearchField": {
-        "background": "{{theme.colors.base2}}",
+        "background": "{{theme.colors.base1}}",
         "borderInsets": ""
       },
       "Toolbar": {
-        "borderColor": "{{theme.colors.base4}}"
+        "borderColor": "{{theme.colors.base3.5}}"
       }
     },
     "EditorPane": {
@@ -196,11 +196,16 @@
       "splitBorder": "{{theme.colors.base5}}"
     },
     "EditorTabs": {
-      "borderColor": "{{theme.colors.base8x0c}}",
+      "borderColor": "{{theme.colors.base3.5}}",
       "inactiveUnderlineColor": "{{theme.colors.yellow}}",
+      "underlineHeight": 1,
       "underlineColor": "{{theme.colors.yellow}}",
       "underlinedTabBackground": "{{theme.colors.base8x0c}}",
-      "underlinedTabForeground": "{{theme.colors.base7}}"
+      "underlinedTabForeground": "{{theme.colors.base7}}",
+      "tabInsets": "",
+      "background": "{{theme.colors.base2}}",
+      "hoverBackground": "{{theme.colors.base0}}",
+      "inactiveColoredFileBackground": ""
     },
     "FileColor": {
       "Blue": "#227d6c",
