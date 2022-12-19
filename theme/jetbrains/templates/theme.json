@@ -266,8 +266,8 @@
       "selectionInactiveForeground": "{{theme.colors.yellow}}"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "{{theme.colors.base3}}",
-      "usedBackground": "{{theme.colors.base4}}"
+      "allocatedBackground": "{{theme.colors.base0}}",
+      "usedBackground": "{{theme.colors.errorRed}}"
     },
     "Menu": {
       "acceleratorForeground": "{{theme.colors.base6}}",
