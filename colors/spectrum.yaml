@@ -3,7 +3,7 @@ name: Monokai Pro (Filter Spectrum)
 colors:
   # primary colors
   red: "#fc618d"
-  errorRed: "#b92d2d"
+  errorRed: "#990909"
   orange: "#fd9353"
   yellow: "#fce566"
   darkYellow: "#d7a916"
