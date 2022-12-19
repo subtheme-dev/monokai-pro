@@ -456,11 +456,18 @@
     "ProgressBar": {
       "background": "{{theme.colors.base2}}",
       "foreground": "{{theme.colors.yellow}}",
+      "failedColor": "{{theme.color.red}}",
+      "failedEndColor": "{{theme.color.errorRed}}",
       "indeterminateEndColor": "{{theme.colors.yellow}}",
-      "indeterminateStartColor": "{{theme.colors.yellow}}",
-      "progressColor": "{{theme.colors.yellow}}",
+      "indeterminateStartColor": "{{theme.colors.base5}}",
+      "passedColor": "{{theme.colors.green}}",
+      "passedEndColor": "{{theme.colors.base5}}",
+      "progressColor": "{{theme.colors.green}}",
       "selectionBackground": "{{theme.colors.base4}}",
-      "trackColor": "{{theme.colors.base4}}"
+      "selectionForeground": "{{theme.colors.base2}}",
+      "trackColor": "{{theme.colors.blue}}",
+      "warningColor": "{{theme.colors.darkYellow}}",
+      "warningEndColor": "{{theme.colors.base3}}"
     },
     "RadioButton": {
       "background": "{{theme.colors.base2}}",
