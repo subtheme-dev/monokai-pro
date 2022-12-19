@@ -274,9 +274,9 @@
       "background": "{{theme.colors.base2}}",
       "foreground": "{{theme.colors.base8}}",
       "selectionBackground": "{{theme.colors.base8x0c}}",
-      "selectionForeground": "{{theme.colors.orange}}",
+      "selectionForeground": "{{theme.colors.yellow}}",
       "selectionInactiveBackground": "{{theme.colors.base8x0c}}",
-      "selectionInactiveForeground": "{{theme.colors.yellow}}",
+      "selectionInactiveForeground": "{{theme.colors.orange}}",
       "dropLineColor": "",
       "hoverBackground": "",
       "hoverInactiveBackground": ""
