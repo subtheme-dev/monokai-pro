@@ -326,11 +326,20 @@
       "borderColor": "{{theme.colors.base8x0c}}"
     },
     "Notification": {
+      "arc": 10,
       "background": "{{theme.colors.base8x0c}}",
-      "borderColor": "{{theme.colors.base1}}",
-      "errorBackground": "{{theme.colors.base1}}",
-      "errorBorderColor": "{{theme.colors.base1}}",
       "foreground": "{{theme.colors.base8}}",
+      "borderColor": "{{theme.colors.base4}}",
+      "borderInsets": "",
+      "contentActionsInset": "",
+      "errorBackground": "{{theme.colors.red}}",
+      "errorBorderColor": "{{theme.colors.errorRed}}",
+      "errorForeground": "{{theme.colors.base0}}",
+      "Button": {
+        "background": "",
+        "borderColor": "",
+        "foreground": ""
+      },
       "MoreButton": {
         "background": "{{theme.colors.base3}}",
         "foreground": "{{theme.colors.base8}}",
@@ -339,11 +348,18 @@
       "ToolWindow": {
         "errorBackground": "{{theme.colors.base8x0c}}",
         "errorBorderColor": "{{theme.colors.base8x0c}}",
+        "errorForeground": "{{theme.colors.base0}}",
         "informativeBackground": "{{theme.colors.base8x0c}}",
         "informativeBorderColor": "{{theme.colors.base8x0c}}",
+        "informativeForeground": "{{theme.colors.base8}}",
         "warningBackground": "{{theme.colors.base8x0c}}",
-        "warningBorderColor": "{{theme.colors.base8x0c}}"
-      }
+        "warningBorderColor": "{{theme.colors.base8x0c}}",
+        "warningForeground": "{{theme.colors.base8}}"
+      },
+      "titleActionsInset": "",
+      "titleContentInset": "",
+      "iconOffsetSize": "",
+      "linkForeground": "{{theme.colors.yellow}}"
     },
     "OptionPane": {
       "background": "{{theme.colors.base2}}",
