@@ -272,7 +272,7 @@
         "hoverBackground": ""
       },
       "background": "{{theme.colors.base2}}",
-      "foreground": "{{theme.colors.blue}}",
+      "foreground": "{{theme.colors.base8}}",
       "selectionBackground": "{{theme.colors.base8x0c}}",
       "selectionForeground": "{{theme.colors.orange}}",
       "selectionInactiveBackground": "{{theme.colors.base8x0c}}",
