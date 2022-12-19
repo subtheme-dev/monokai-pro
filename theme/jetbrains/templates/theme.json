@@ -189,9 +189,9 @@
       "background": "{{theme.colors.base1}}",
       "caretForeground": "{{theme.colors.yellow}}",
       "foreground": "{{theme.colors.blue}}",
-      "inactiveBackground": "{{theme.colors.base4}}",
+      "inactiveBackground": "{{theme.colors.base3}}",
       "inactiveForeground": "{{theme.colors.base2}}",
-      "selectionBackground": "{{theme.colors.base3}}",
+      "selectionBackground": "{{theme.colors.base1}}",
       "selectionForeground": "{{theme.colors.yellow}}",
       "splitBorder": "{{theme.colors.base5}}"
     },
