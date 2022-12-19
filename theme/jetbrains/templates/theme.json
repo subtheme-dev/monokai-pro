@@ -258,12 +258,28 @@
       "visitedForeground": "{{theme.colors.yellow}}"
     },
     "List": {
-      "background": "{{theme.colors.base1}}",
-      "foreground": "{{theme.colors.base8}}",
+      "Button": {
+        "hoverBackground": "",
+        "leftRightInset": "",
+        "separatorColor": "",
+        "separatorInset": ""
+      },
+      "Tag": {
+        "background": "",
+        "foreground": ""
+      },
+      "Line": {
+        "hoverBackground": ""
+      },
+      "background": "{{theme.colors.base2}}",
+      "foreground": "{{theme.colors.blue}}",
       "selectionBackground": "{{theme.colors.base8x0c}}",
-      "selectionForeground": "{{theme.colors.yellow}}",
+      "selectionForeground": "{{theme.colors.orange}}",
       "selectionInactiveBackground": "{{theme.colors.base8x0c}}",
-      "selectionInactiveForeground": "{{theme.colors.yellow}}"
+      "selectionInactiveForeground": "{{theme.colors.yellow}}",
+      "dropLineColor": "",
+      "hoverBackground": "",
+      "hoverInactiveBackground": ""
     },
     "MemoryIndicator": {
       "allocatedBackground": "{{theme.colors.base0}}",
