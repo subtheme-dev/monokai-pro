@@ -121,17 +121,17 @@
     "Component": {
       "arc": 10,
       "borderColor": "{{theme.colors.base5}}",
+      "infoForeground": "{{theme.colors.base6}}",
       "disabledBorderColor": "{{theme.colors.base8x0c}}",
-      "errorFocusColor": "{{theme.colors.errorRed}}",
-      "focusColor": "{{theme.colors.yellow}}",
-      "focusedBorderColor": "{{theme.colors.yellow}}",
-      "focusWidth": "",
+      "focusColor": "{{theme.colors.blue}}",
+      "focusedBorderColor": "{{theme.colors.darkBlue}}",
+      "focusWidth": 1,
       "hoverIconColor": "{{theme.colors.yellow}}",
       "iconColor": "{{theme.colors.base8}}",
-      "inactiveErrorFocusColor": "",
-      "inactiveWarningFocusColor": "",
-      "infoForeground": "{{theme.colors.base6}}",
-      "warningFocusColor": ""
+      "errorFocusColor": "{{theme.colors.red}}",
+      "inactiveErrorFocusColor": "{{theme.colors.errorRed}}",
+      "warningFocusColor": "{{theme.colors.yellow}}",
+      "inactiveWarningFocusColor": "{{theme.colors.darkYellow}}"
     },
     "Counter": {
       "background": "{{theme.colors.yellow}}",
