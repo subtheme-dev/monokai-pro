@@ -111,7 +111,7 @@
         "fontSizeOffset": "",
         "foreground": "{{theme.colors.base7}}"
       },
-      "foreground": "{{theme.colors.blue}}",
+      "foreground": "{{theme.colors.red}}",
       "matchForeground": "{{theme.colors.yellow}}",
       "selectionInactiveBackground": "{{theme.colors.base3}}",
       "selectionBackground": "{{theme.colors.base3}}",
