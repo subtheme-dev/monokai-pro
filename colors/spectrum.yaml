@@ -14,6 +14,7 @@ colors:
   # base colors
   base0: "#131313"
   base1: "#191919"
+  base1.5: "#202020"
   base2: "#222222"
   base3: "#292929"
   base3.5: "#363537"

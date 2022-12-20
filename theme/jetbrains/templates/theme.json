@@ -22,7 +22,7 @@
       "selectionForeground": "{{theme.colors.yellow}}",
       "selectionInactiveBackground": "{{theme.colors.base3}}",
       "selectionInactiveForeground": "{{theme.colors.yellow}}",
-      "separatorColor": "{{theme.colors.base2}}"
+      "separatorColor": "{{theme.colors.base3.5}}"
     },
     "ActionButton": {
       "hoverBackground": "{{theme.colors.base3}}",
@@ -271,7 +271,7 @@
       "Line": {
         "hoverBackground": ""
       },
-      "background": "{{theme.colors.base2}}",
+      "background": "{{theme.colors.base1.5}}",
       "foreground": "{{theme.colors.base8}}",
       "selectionBackground": "{{theme.colors.base8x0c}}",
       "selectionForeground": "{{theme.colors.yellow}}",
