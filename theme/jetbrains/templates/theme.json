@@ -57,6 +57,9 @@
       "ContrastBorderColor": "{{theme.colors.base8x0c}}",
       "color": "{{theme.colors.base3.5}}"
     },
+    "Breakpoint": {
+      "iconHoverAlpha": ""
+    },
     "Button": {
       "arc": 10,
       "background": "{{theme.colors.base3.5}}",
@@ -96,6 +99,41 @@
       "foreground": "{{theme.colors.base8}}",
       "selectionBackground": "{{theme.colors.base3}}",
       "selectionForeground": "{{theme.colors.yellow}}"
+    },
+    "CodeWithMe": {
+      "AccessDisabled": {
+        "accessDot": ""
+      },
+      "Avatar": {
+        "foreground": "",
+        "hover": ""
+      },
+      "Users": {
+        "1": {
+          "Background": "",
+          "Foreground": ""
+        },
+        "2": {
+          "Background": "",
+          "Foreground": ""
+        },
+        "3": {
+          "Background": "",
+          "Foreground": ""
+        },
+        "4": {
+          "Background": "",
+          "Foreground": ""
+        },
+        "5": {
+          "Background": "",
+          "Foreground": ""
+        },
+        "6": {
+          "Background": "",
+          "Foreground": ""
+        }
+      }
     },
     "ColorChooser": {
       "background": "{{theme.colors.base2}}",
@@ -139,6 +177,16 @@
       "selectionBackground": "{{theme.colors.base3}}",
       "nonFocusedMask": "",
       "selectionInnerInsets": ""
+    },
+    "ComplexPopup": {
+      "Header": {
+        "background": "",
+        "insets": ""
+      },
+      "TextField": {
+        "borderInsets": "",
+        "inputInsets": ""
+      }
     },
     "Component": {
       "arc": 10,
@@ -247,6 +295,17 @@
       "selectionForeground": "{{theme.colors.yellow}}",
       "selectionBackground": "{{theme.colors.base3}}"
     },
+    "GotItTooltip": {
+      "foreground": "",
+      "background": "",
+      "linkForeground": "",
+      "borderColor": "",
+      "endBackground": "",
+      "endBorderColor": "",
+      "shortcutForeground": "",
+      "startBackground": "",
+      "startBorderColor": ""
+    },
     "Group": {
       "disabledSeparatorColor": "{{theme.colors.base3}}",
       "separatorColor": "{{theme.colors.base3.5}}"
@@ -257,6 +316,16 @@
     },
     "HelpTooltip": {
       "borderColor": "{{theme.colors.base2}}"
+    },
+    "IconBadge": {
+      "errorBackground": "",
+      "infoBackground": "",
+      "warningBackground": "",
+      "successBackground": "",
+      "borderWidth": "",
+      "dotRadius": "",
+      "dotX": "",
+      "dotY": ""
     },
     "InformationHint": {
       "borderColor": "{{theme.colors.base2}}"
@@ -271,6 +340,14 @@
       "foreground": "{{theme.colors.base6}}",
       "infoForeground": "{{theme.colors.base6}}",
       "selectedForeground": "{{theme.colors.yellow}}"
+    },
+    "Lesson": {
+      "Badge": {
+        "newLessonBackground": "",
+        "newLessonForeground": ""
+      },
+      "shortcutBackground": "",
+      "stepNumberForeground": ""
     },
     "Link": {
       "activeForeground": "{{theme.colors.yellow}}",
@@ -302,6 +379,9 @@
       "dropLineColor": "",
       "hoverBackground": "",
       "hoverInactiveBackground": ""
+    },
+    "MainToolbar": {
+      "separatorColor": ""
     },
     "MemoryIndicator": {
       "allocatedBackground": "{{theme.colors.base0}}",
@@ -383,10 +463,51 @@
       "iconOffsetSize": "",
       "linkForeground": "{{theme.colors.yellow}}"
     },
+    "NotificationsToolwindow": {
+      "newNotification": {
+        "background": "",
+        "hoverBackground": ""
+      },
+      "Notification": {
+        "hoverBackground": ""
+      }
+    },
+    "OnePixelDivider": {
+      "background": ""
+    },
+    "OptionButton": {
+      "default": {
+        "separatorColor": ""
+      },
+      "separatorColor": ""
+    },
     "OptionPane": {
       "background": "{{theme.colors.base2}}",
       "foreground": "{{theme.colors.base8}}",
       "messageForeground": "{{theme.colors.base8}}"
+    },
+    "PackageSearch": {
+      "PackagesList": {
+        "rowHeight": ""
+      },
+      "PackageTag": {
+        "hoverBackground": "",
+        "background": "",
+        "foreground": "",
+        "selectedBackground": "",
+        "selectedForeground": ""
+      },
+      "SearchResult": {
+        "background": "",
+        "hoverBackground": "",
+        "PackageTag": {
+          "hoverBackground": "",
+          "selectedForeground": "",
+          "selectedBackground": "",
+          "foreground": "",
+          "background": ""
+        }
+      }
     },
     "Panel": {
       "background": "{{theme.colors.base2}}",
@@ -506,6 +627,56 @@
       "selectionBackground": "{{theme.colors.base3}}",
       "selectionForeground": "{{theme.colors.yellow}}"
     },
+    "RunToolbar": {
+      "Debug": {
+        "activeBackground": ""
+      },
+      "Profile": {
+        "activeBackground": ""
+      },
+      "Run": {
+        "activeBackground": ""
+      }
+    },
+    "RunWidget": {
+      "background": "",
+      "foreground": "",
+      "hoverBackground": "",
+      "separatorColor": "",
+      "pressedBackground": "",
+      "runningBackground": ""
+    },
+    "ScrollBar": {
+      "background": "",
+      "hoverThumbBorderColor": "",
+      "hoverThumbColor": "",
+      "hoverTrackColor": "",
+      "thumb": "",
+      "thumbBorderColor": "",
+      "thumbColor": "",
+      "thumbDarkShadow": "",
+      "thumbHighlight": "",
+      "thumbShadow": "",
+      "trackHighlight": "",
+      "track": "",
+      "trackColor": "",
+      "Transparent": {
+        "trackColor": "",
+        "thumbColor": "",
+        "thumbBorderColor": "",
+        "hoverTrackColor": "",
+        "hoverThumbColor": "",
+        "hoverThumbBorderColor": ""
+      }
+    },
+    "ScrollPane": {
+      "background": "",
+      "foreground": ""
+    },
+    "SearchField": {
+      "errorBackground": "",
+      "errorForeground": ""
+    },
     "SearchEverywhere": {
       "Advertiser": {
         "background": "{{theme.colors.base1}}",
@@ -532,8 +703,27 @@
       "endBackground": "{{theme.colors.yellow}}",
       "startBackground": "{{theme.colors.yellow}}"
     },
+    "SearchOption": {
+      "selectedBackground": "",
+      "selectedHoveredBackground": "",
+      "selectedPressedBackground": ""
+    },
+    "SegmentedButton": {
+      "focusedSelectedButtonColor": "",
+      "selectedButtonColor": "",
+      "selectedEndBorderColor": "",
+      "selectedStartBorderColor": ""
+    },
     "Separator": {
       "separatorColor": "{{theme.colors.base4}}"
+    },
+    "Settings": {
+      "Spotlight": {
+        "borderColor": ""
+      }
+    },
+    "SettingsTree": {
+      "rowHeight": ""
     },
     "SidePanel": {
       "background": "{{theme.colors.base1}}"
@@ -545,6 +735,25 @@
       "foreground": "{{theme.colors.base8}}",
       "tickColor": "{{theme.colors.base3}}",
       "trackColor": "{{theme.colors.base3}}"
+    },
+    "Space": {
+      "Chat": {
+        "Emoji": {
+          "Picker": {
+            "hoverBackground": ""
+          }
+        },
+        "Reaction": {
+          "background": "",
+          "hoverBackground": ""
+        }
+      },
+      "Review": {
+        "acceptedOutline": "",
+        "diffAnchorBackground": "",
+        "waitForResponseOutline": "",
+        "workingOutline": ""
+      }
     },
     "SpeedSearch": {
       "background": "{{theme.colors.base4}}",
@@ -561,6 +770,9 @@
     },
     "SplitPaneDivider": {
       "draggingColor": "{{theme.colors.base3}}"
+    },
+    "SshRemoteRun": {
+      "successfulConnectionInfoLabel": ""
     },
     "StatusBar": {
       "borderColor": "{{theme.colors.base8x0c}}"
@@ -604,7 +816,9 @@
       "focusCellBackground": "{{theme.colors.base3}}",
       "separatorColor": "{{theme.colors.base8x0c}}"
     },
-    "textText": "{{theme.colors.base6}}",
+    "Tag": {
+      "background": ""
+    },
     "TextArea": {
       "background": "{{theme.colors.base8x0c}}",
       "caretForeground": "{{theme.colors.yellow}}",
@@ -612,6 +826,9 @@
       "inactiveForeground": "{{theme.colors.base4}}",
       "selectionBackground": "{{theme.colors.base4}}",
       "selectionForeground": "{{theme.colors.yellow}}"
+    },
+    "TextComponent": {
+      "selectionBackgroundInactive": ""
     },
     "TextField": {
       "background": "{{theme.colors.base8x0c}}",
@@ -629,15 +846,21 @@
       "selectionBackground": "{{theme.colors.base4}}",
       "selectionForeground": "{{theme.colors.yellow}}"
     },
+    "textText": "{{theme.colors.base6}}",
+    "TipOfTheDay": {
+      "Image": {
+        "borderColor": ""
+      }
+    },
+    "TitledBorder": {
+      "titleColor": "{{theme.colors.base6}}"
+    },
     "TitlePane": {
       "background": "{{theme.colors.base1}}",
       "Button.hoverBackground": "{{theme.colors.base4}}",
       "inactiveBackground": "{{theme.colors.base2}}",
       "infoForeground": "{{theme.colors.base6}}",
       "inactiveInfoForeground": "{{theme.colors.base6}}"
-    },
-    "TitledBorder": {
-      "titleColor": "{{theme.colors.base6}}"
     },
     "ToggleButton": {
       "borderColor": "{{theme.colors.base3}}",
@@ -711,6 +934,14 @@
       "Preview": {
         "background": "{{theme.colors.base2}}"
       }
+    },
+    "UnattendedHostStatus": {
+      "dangerBackground": "",
+      "warningBackground": "",
+      "dangerForeground": "",
+      "normalBackground": "",
+      "normalForeground": "",
+      "warningForeground": ""
     },
     "ValidationTooltip": {
       "errorBackground": "{{theme.colors.base8x0c}}",
