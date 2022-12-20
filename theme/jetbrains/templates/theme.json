@@ -765,10 +765,10 @@
       }
     },
     "SpeedSearch": {
-      "background": "{{theme.colors.base4}}",
-      "borderColor": "{{theme.colors.base2}}",
-      "errorForeground": "{{theme.colors.base8}}",
-      "foreground": "{{theme.colors.base8}}"
+      "background": "{{theme.colors.base3.5}}",
+      "borderColor": "{{theme.colors.base4}}",
+      "errorForeground": "{{theme.colors.red}}",
+      "foreground": "{{theme.colors.base9}}"
     },
     "Spinner": {
       "background": "{{theme.colors.base2}}"
