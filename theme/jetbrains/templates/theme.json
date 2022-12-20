@@ -227,8 +227,8 @@
         "evaluatingExpressionForeground": "{{theme.colors.base6}}",
         "exceptionForeground": "{{theme.colors.errorRed}}",
         "modifyingValueForeground": "{{theme.colors.yellow}}",
-        "typeForeground": "{{theme.colors.base5}}",
-        "valueForeground": "{{theme.colors.base5}}"
+        "typeForeground": "{{theme.colors.base6}}",
+        "valueForeground": "{{theme.colors.base8}}"
       }
     },
     "DebuggerTabs": {
