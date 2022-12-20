@@ -545,13 +545,14 @@
     },
     "TabbedPane": {
       "background": "{{theme.colors.base2}}",
+      "foreground": "{{theme.colors.base8}}",
       "contentAreaColor": "{{theme.colors.base4}}",
       "disabledForeground": "{{theme.colors.base4}}",
       "disabledUnderlineColor": "{{theme.colors.base4}}",
-      "focus": "{{theme.colors.base3}}",
-      "focusColor": "{{theme.colors.base3}}",
-      "foreground": "{{theme.colors.base8}}",
+      "focus": "{{theme.colors.base8x0c}}",
+      "focusColor": "{{theme.colors.base8x0c}}",
       "hoverColor": "{{theme.colors.base8x0c}}",
+      "tabSelectionArc": 1,
       "tabSelectionHeight": 2,
       "underlineColor": "{{theme.colors.yellow}}"
     },
