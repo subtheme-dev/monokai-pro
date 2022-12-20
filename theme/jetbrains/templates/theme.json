@@ -42,7 +42,7 @@
         "endBackground": "{{theme.colors.base3.5}}",
         "endBorderColor": "{{theme.colors.base3.5}}",
         "foreground": "{{theme.colors.yellow}}",
-        "focusColor": "{{theme.colors.blue}}",
+        "focusColor": "{{theme.colors.yellow}}",
         "focusedBorderColor": "{{theme.colors.base3.5}}",
         "shadowColor": "{{theme.colors.base3.5}}",
         "startBackground": "{{theme.colors.base3.5}}",
