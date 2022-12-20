@@ -390,7 +390,7 @@
       "hoverInactiveBackground": ""
     },
     "MainToolbar": {
-      "separatorColor": ""
+      "separatorColor": "{{theme.colors.base4}}"
     },
     "MemoryIndicator": {
       "allocatedBackground": "{{theme.colors.base0}}",
