@@ -7,7 +7,7 @@
     "*": {
       "acceleratorSelectionForeground": "{{theme.colors.yellow}}",
       "background": "{{theme.colors.base2}}",
-      "borderColor": "{{theme.colors.base8x0c}}",
+      "borderColor": "{{theme.colors.base3.5}}",
       "disabledBackground": "{{theme.colors.base1}}",
       "disabledForeground": "{{theme.colors.base4}}",
       "disabledText": "{{theme.colors.base4}}",
