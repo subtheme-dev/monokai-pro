@@ -44,13 +44,22 @@
       "background": ""
     },
     "Bookmark": {
-      "iconBackground": "",
+      "iconBackground": "{{theme.colors.base2}}",
       "Mnemonic": {
-        "iconForeground": ""
+        "iconForeground": "{{theme.colors.base9}}"
       },
       "MnemonicAssigned": {
-        "background": "",
-        "foreground": ""
+        "background": "{{theme.colors.red}}",
+        "foreground": "{{theme.colors.base0}}"
+      },
+      "MnemonicAvailable": {
+        "background": "{{theme.colors.base2}}",
+        "borderColor": "{{theme.colors.base4}}",
+        "foreground": "{{theme.colors.base7}}"
+      },
+      "MnemonicCurrent": {
+        "background": "{{theme.colors.green}}",
+        "foreground": "{{theme.colors.base0}}"
       }
     },
     "Borders": {
