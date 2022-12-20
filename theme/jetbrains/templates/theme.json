@@ -367,7 +367,7 @@
       "messageForeground": "{{theme.colors.base8}}"
     },
     "Panel": {
-      "background": "{{theme.colors.base2}}",
+      "background": "{{theme.colors.base1}}",
       "foreground": "{{theme.colors.base6}}",
       "mouseShortcutBackground": ""
     },
