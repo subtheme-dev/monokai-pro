@@ -67,7 +67,7 @@
       "color": "{{theme.colors.base3.5}}"
     },
     "Breakpoint": {
-      "iconHoverAlpha": ""
+      "iconHoverAlpha": 0.55
     },
     "Button": {
       "arc": 10,
