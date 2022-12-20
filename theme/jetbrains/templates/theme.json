@@ -674,7 +674,7 @@
       "hash": "{{theme.colors.base4}}",
       "hoverBackground": "{{theme.colors.base3.5}}",
       "hoverInactiveBackground": "{{theme.colors.base3}}",
-      "modifiedItemForeground": "{{theme.colors.yellow}}",
+      "modifiedItemForeground": "{{theme.colors.blue}}",
       "rowHeight": 22,
       "selectionBackground": "{{theme.colors.base3.5}}",
       "selectionForeground": "{{theme.colors.yellow}}",
