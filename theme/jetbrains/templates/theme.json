@@ -670,12 +670,12 @@
       "track": "",
       "trackColor": "",
       "Transparent": {
-        "trackColor": "",
-        "thumbColor": "",
-        "thumbBorderColor": "",
-        "hoverTrackColor": "",
-        "hoverThumbColor": "",
-        "hoverThumbBorderColor": ""
+        "trackColor": "{{theme.colors.base1.5}}",
+        "thumbColor": "{{theme.colors.base3.5}}",
+        "thumbBorderColor": "{{theme.colors.base3.5}}",
+        "hoverTrackColor": "{{theme.colors.base1}}",
+        "hoverThumbColor": "{{theme.colors.base4}}",
+        "hoverThumbBorderColor": "{{theme.colors.base4}}"
       }
     },
     "ScrollPane": {
