@@ -367,7 +367,7 @@
       "messageForeground": "{{theme.colors.base8}}"
     },
     "Panel": {
-      "background": "{{theme.colors.base1}}",
+      "background": "{{theme.colors.base2}}",
       "foreground": "{{theme.colors.base6}}",
       "mouseShortcutBackground": ""
     },
@@ -668,7 +668,7 @@
       }
     },
     "Tree": {
-      "background": "{{theme.colors.base2}}",
+      "background": "{{theme.colors.base1}}",
       "errorForeground": "{{theme.colors.errorRed}}",
       "foreground": "{{theme.colors.base6}}",
       "hash": "{{theme.colors.base4}}",
