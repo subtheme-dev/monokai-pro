@@ -698,14 +698,16 @@
         }
       },
       "GitLog": {
-        "localBranchIconColor": "{{theme.colors.yellow}}",
+        "headIconColor": "{{theme.colors.red}}",
+        "localBranchIconColor": "{{theme.colors.blue}}",
         "otherIconColor": "{{theme.colors.base6}}",
-        "remoteBranchIconColor": "{{theme.colors.base8}}",
+        "remoteBranchIconColor": "{{theme.colors.green}}",
         "tagIconColor": "{{theme.colors.base6}}"
       },
       "HgLog": {
-        "branchIconColor": "{{theme.colors.yellow}}",
+        "headIconColor": "",
         "bookmarkIconColor": "{{theme.colors.yellow}}",
+        "branchIconColor": "{{theme.colors.yellow}}",
         "closedBranchIconColor": "{{theme.colors.base4}}",
         "localTagIconColor": "{{theme.colors.base6}}",
         "mqTagIconColor": "{{theme.colors.base6}}",
@@ -714,13 +716,24 @@
       },
       "Log": {
         "Commit": {
-          "unmatchedForeground": "{{theme.colors.base6}}",
-          "currentBranchBackground": "{{theme.colors.base8x0c}}"
+          "currentBranchBackground": "{{theme.colors.base3.5}}",
+          "hoveredBackground": "{{theme.colors.base4}}",
+          "rowHeight": 20,
+          "selectionBackground": "{{theme.colors.base0}}",
+          "selectionForeground": "{{theme.colors.yellow}}",
+          "selectionInactiveBackground": "{{theme.colors.base3}}",
+          "selectionInactiveForeground": "{{theme.colors.yellow}}",
+          "unmatchedForeground": "{{theme.colors.base6}}"
         }
       },
+      "MarkerPopup": {
+        "borderColor": "{{theme.colors.base4}}",
+        "borderInsets": ""
+      },
       "RefLabel": {
-        "foreground": "{{theme.colors.yellow}}",
-        "backgroundBase": "{{theme.colors.base4}}"
+        "backgroundBase": "{{theme.colors.base4}}",
+        "backgroundBrightness": 0,
+        "foreground": "{{theme.colors.orange}}"
       }
     },
     "Viewport": {
