@@ -327,12 +327,12 @@
       "borderColor": "{{theme.colors.base2}}"
     },
     "IconBadge": {
-      "errorBackground": "",
-      "infoBackground": "",
-      "warningBackground": "",
-      "successBackground": "",
-      "borderWidth": "",
-      "dotRadius": "",
+      "errorBackground": "{{theme.colors.errorRed}}",
+      "infoBackground": "{{theme.colors.blue}}",
+      "warningBackground": "{{theme.colors.yellow}}",
+      "successBackground": "{{theme.colors.green}}",
+      "borderWidth": 1,
+      "dotRadius": 5,
       "dotX": "",
       "dotY": ""
     },
