@@ -30,7 +30,29 @@
       "pressedBackground": "{{theme.colors.darkBlue}}",
       "pressedBorderColor": "{{theme.colors.blue}}"
     },
-    "Banner": {},
+    "Banner": {
+      "warningBorderColor": "",
+      "warningBackground": "",
+      "successBorderColor": "",
+      "successBackground": "",
+      "infoBorderColor": "",
+      "infoBackground": "",
+      "errorBorderColor": "",
+      "errorBackground": ""
+    },
+    "BigSpinner": {
+      "background": ""
+    },
+    "Bookmark": {
+      "iconBackground": "",
+      "Mnemonic": {
+        "iconForeground": ""
+      },
+      "MnemonicAssigned": {
+        "background": "",
+        "foreground": ""
+      }
+    },
     "Borders": {
       "ContrastBorderColor": "{{theme.colors.base8x0c}}",
       "color": "{{theme.colors.base3.5}}"
