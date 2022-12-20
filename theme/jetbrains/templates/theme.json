@@ -668,14 +668,18 @@
       }
     },
     "Tree": {
-      "background": "{{theme.colors.base1}}",
+      "background": "{{theme.colors.base2}}",
+      "errorForeground": "{{theme.colors.errorRed}}",
       "foreground": "{{theme.colors.base6}}",
-      "hash": "{{theme.colors.base2}}",
+      "hash": "{{theme.colors.base4}}",
+      "hoverBackground": "{{theme.colors.base3.5}}",
+      "hoverInactiveBackground": "{{theme.colors.base3}}",
       "modifiedItemForeground": "{{theme.colors.yellow}}",
       "rowHeight": 22,
-      "selectionBackground": "{{theme.colors.base2}}",
+      "selectionBackground": "{{theme.colors.base3.5}}",
       "selectionForeground": "{{theme.colors.yellow}}",
-      "selectionInactiveBackground": "{{theme.colors.base2}}"
+      "selectionInactiveBackground": "{{theme.colors.base3}}",
+      "paintLines": true
     },
     "UiDesigner": {
       "Panel": {
