@@ -718,10 +718,10 @@
       "selectedPressedBackground": ""
     },
     "SegmentedButton": {
-      "focusedSelectedButtonColor": "",
-      "selectedButtonColor": "",
-      "selectedEndBorderColor": "",
-      "selectedStartBorderColor": ""
+      "focusedSelectedButtonColor": "{{theme.colors.base4}}",
+      "selectedButtonColor": "{{theme.colors.base4}}",
+      "selectedEndBorderColor": "{{theme.colors.base6}}",
+      "selectedStartBorderColor": "{{theme.colors.base6}}"
     },
     "Separator": {
       "separatorColor": "{{theme.colors.base4}}"
