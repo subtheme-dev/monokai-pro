@@ -739,11 +739,11 @@
     },
     "Slider": {
       "background": "{{theme.colors.base2}}",
-      "buttonBorderColor": "{{theme.colors.yellow}}",
+      "buttonBorderColor": "{{theme.colors.orange}}",
       "buttonColor": "{{theme.colors.yellow}}",
       "foreground": "{{theme.colors.base8}}",
       "tickColor": "{{theme.colors.base3}}",
-      "trackColor": "{{theme.colors.base3}}"
+      "trackColor": "{{theme.colors.base3.5}}"
     },
     "Space": {
       "Chat": {
