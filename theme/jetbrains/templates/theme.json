@@ -983,12 +983,12 @@
       },
       "Log": {
         "Commit": {
-          "currentBranchBackground": "{{theme.colors.base3.5}}",
-          "hoveredBackground": "{{theme.colors.base4}}",
+          "currentBranchBackground": "{{theme.colors.base2}}",
+          "hoveredBackground": "{{theme.colors.base3.5}}",
           "rowHeight": 20,
-          "selectionBackground": "{{theme.colors.base0}}",
+          "selectionBackground": "{{theme.colors.base4}}",
           "selectionForeground": "{{theme.colors.yellow}}",
-          "selectionInactiveBackground": "{{theme.colors.base3}}",
+          "selectionInactiveBackground": "{{theme.colors.base1}}",
           "selectionInactiveForeground": "{{theme.colors.yellow}}",
           "unmatchedForeground": "{{theme.colors.base6}}"
         }
