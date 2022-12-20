@@ -511,7 +511,7 @@
       "startBackground": "{{theme.colors.yellow}}"
     },
     "Separator": {
-      "separatorColor": "{{theme.colors.base8x0c}}"
+      "separatorColor": "{{theme.colors.base4}}"
     },
     "SidePanel": {
       "background": "{{theme.colors.base1}}"
