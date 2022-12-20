@@ -728,11 +728,11 @@
     },
     "Settings": {
       "Spotlight": {
-        "borderColor": ""
+        "borderColor": "{{theme.colors.green}}"
       }
     },
     "SettingsTree": {
-      "rowHeight": ""
+      "rowHeight": 22
     },
     "SidePanel": {
       "background": "{{theme.colors.base1}}"
