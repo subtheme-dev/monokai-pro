@@ -267,7 +267,7 @@
     "EditorPane": {
       "background": "{{theme.colors.base1}}",
       "caretForeground": "{{theme.colors.yellow}}",
-      "foreground": "{{theme.colors.blue}}",
+      "foreground": "{{theme.colors.base8}}",
       "inactiveBackground": "{{theme.colors.base3}}",
       "inactiveForeground": "{{theme.colors.base2}}",
       "selectionBackground": "{{theme.colors.base1}}",
