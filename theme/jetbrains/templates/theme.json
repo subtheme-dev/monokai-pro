@@ -346,7 +346,7 @@
       "background": "{{theme.colors.base2}}",
       "disabledForeground": "{{theme.colors.base4}}",
       "disabledText": "{{theme.colors.base4}}",
-      "foreground": "{{theme.colors.base6}}",
+      "foreground": "{{theme.colors.base7}}",
       "infoForeground": "{{theme.colors.base6}}",
       "selectedForeground": "{{theme.colors.yellow}}"
     },
