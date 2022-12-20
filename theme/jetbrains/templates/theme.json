@@ -320,8 +320,8 @@
       "separatorColor": "{{theme.colors.base3.5}}"
     },
     "GutterTooltip": {
-      "infoForeground": "{{theme.colors.base8}}",
-      "lineSeparatorColor": "{{theme.colors.base2}}"
+      "infoForeground": "{{theme.colors.base9}}",
+      "lineSeparatorColor": "{{theme.colors.base8x0c}}"
     },
     "HelpTooltip": {
       "borderColor": "{{theme.colors.base2}}"
