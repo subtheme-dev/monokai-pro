@@ -17,7 +17,7 @@ colors:
   base1.5: "#202020"
   base2: "#222222"
   base3: "#292929"
-  base3.5: "#363537"
+  base3.5: "#363537"   # This color needs to be modified such that it matches with base8x0c but is brighter than it (Lesser than base4).
   base4: "#525053"
   base5: "#69676c"
   base6: "#8b888f"
