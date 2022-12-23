@@ -309,11 +309,7 @@
       "background": "",
       "linkForeground": "",
       "borderColor": "",
-      "endBackground": "",
-      "endBorderColor": "",
-      "shortcutForeground": "",
-      "startBackground": "",
-      "startBorderColor": ""
+      "shortcutForeground": ""
     },
     "Group": {
       "disabledSeparatorColor": "{{theme.colors.base3}}",
