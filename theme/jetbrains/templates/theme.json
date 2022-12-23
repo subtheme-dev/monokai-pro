@@ -149,9 +149,6 @@
       "foreground": "{{theme.colors.base8}}",
       "swatchesDefaultRecentColor": "{{theme.colors.base8}}"
     },
-    "ComboBoxButton": {
-      "background": "{{theme.colors.base8x0c}}"
-    },
     "ComboBox": {
       "ArrowButton": {
         "background": "{{theme.colors.base2}}",
@@ -166,6 +163,9 @@
       "nonEditableBackground": "{{theme.colors.base8x0c}}",
       "selectionBackground": "{{theme.colors.blue}}",
       "selectionForeground": "{{theme.colors.base1}}"
+    },
+    "ComboBoxButton": {
+      "background": "{{theme.colors.base8x0c}}"
     },
     "ComboPopup": {
       "border": "0,0,0,0,000000"
