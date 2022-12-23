@@ -648,12 +648,12 @@
       }
     },
     "RunWidget": {
-      "background": "",
-      "foreground": "",
-      "hoverBackground": "",
-      "separatorColor": "",
-      "pressedBackground": "",
-      "runningBackground": ""
+      "background": "{{theme.colors.darkBlue}}",
+      "foreground": "{{theme.colors.base9}}",
+      "hoverBackground": "{{theme.colors.base8x0c}}",
+      "separatorColor": "{{theme.colors.blue}}",
+      "pressedBackground": "{{theme.colors.base8x0c}}",
+      "runningBackground": "{{theme.colors.darkGreen}}"
     },
     "ScrollBar": {
       "background": "",
