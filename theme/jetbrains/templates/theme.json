@@ -854,7 +854,7 @@
     "textText": "{{theme.colors.base6}}",
     "TipOfTheDay": {
       "Image": {
-        "borderColor": ""
+        "borderColor": "{{theme.colors.base3.5}}"
       }
     },
     "TitledBorder": {
