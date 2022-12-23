@@ -189,7 +189,7 @@
     },
     "ComplexPopup": {
       "Header": {
-        "background": "",
+        "background": "{{theme.colors.base8x0c}}",
         "insets": ""
       },
       "TextField": {
