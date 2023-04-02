@@ -15,15 +15,15 @@ colors:
   # base colors
   base0: "#131313"
   base1: "#191919"
-  base1.5: "#202020"
-  base2: "#222222"
-  base3: "#292929"
-  base3.5: "#363537"   # This color needs to be modified such that it matches with base8x0c but is brighter than it (Lesser than base4).
-  base4: "#525053"
-  base5: "#69676c"
-  base6: "#8b888f"
-  base7: "#bab6c0"
-  base8: "#cdcdcd"
-  base9: "#f7f1ff"
+  base2: "#202020"
+  base3: "#222222"
+  base4: "#292929"
+  base5: "#363537"   # This color needs to be modified such that it matches with base8x0c but is brighter than it (Lesser than base4).
+  base6: "#525053"
+  base7: "#69676c"
+  base8: "#8b888f"
+  base9: "#bab6c0"
+  base10: "#cdcdcd"
+  base11: "#f7f1ff"
   # variants
   base8x0c: "#2b2b2b"
